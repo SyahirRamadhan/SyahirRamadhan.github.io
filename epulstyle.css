@@ -1,0 +1,15 @@
+#xcolumn {
+    color: black;
+    font-weight: bold;
+}
+
+#front {
+    color: #F05454;
+    font-weight: bold;
+    border: 2px outset #F05454;
+    background-color: #30475E;
+}
+
+#subfront {
+    font-weight: bold;
+}
